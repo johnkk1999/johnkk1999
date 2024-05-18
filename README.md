@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **IoT development, product design and embedded systems.**
 
-- ⚡ Fun fact **You draw as much as you can but not when it comes to current**
+- ⚡ Fun fact **You draw as much as you can, but not when it comes to current**
 ___
 <h3 align="left">My Tech Stack 💻🤓 </h3>
 
