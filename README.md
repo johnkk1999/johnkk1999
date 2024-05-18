@@ -42,16 +42,16 @@ ___
         <a href="https://github.com/johnkk1999">
             <img align="center" 
             height="175px"  
-            src="https://github-readme-streak-stats.herokuapp.com/?user=kimanigitau01&&theme=tokyonight" alt="johnkk1999"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=johnkk1999&&theme=tokyonight" alt="johnkk1999"
             height="192px" 
             width="49.5%"/>
         </a>
         <br><br>
         <img align="center" 
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=kimanigitau01&layout=compact&theme=tokyonight" alt="johnkk1999"/>
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=johnkk1999&layout=compact&theme=tokyonight" alt="johnkk1999"/>
         <br><br>
 <!--         <a href="https://github.com/johnkk1999">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimanigitau01&theme=tokyonight" alt="johnkk1999"/>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnkk1999&theme=tokyonight" alt="johnkk1999"/>
         </a> -->
     </p>
  
